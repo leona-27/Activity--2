@@ -2,7 +2,7 @@ package Duplicate;
 import java.util.Scanner;
 
 public class App {
-    public static Object[][] item = {{"chubby",20},{"snowbear",15},{"stick o",10},{"kitkat" ,25},{"Tobleron" ,12}};
+    public static Object[][] item = {{"gums",20},{"candy",15},{"cookies",10},{"chips" ,25}};
     public static void main(String[] args)  {
         System.out.println("********************************");
         for (Object[] i: item) {
